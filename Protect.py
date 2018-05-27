@@ -79,8 +79,8 @@ helpMessage ="""
 ╠════════════════════╝
 ╠❂➣ Bunuh 「mention」
 ╠❂➣ Kick 「mid」
-╠❂➣ Bye dna
-╠❂➣ Come dna
+╠❂➣ Galank bye
+╠❂➣ Come Galank
 ╠❂➣ Bye all
 ╠❂➣ Kill ban
 ╠❂➣ Ban 「mention」
