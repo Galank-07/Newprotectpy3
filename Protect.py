@@ -27,19 +27,19 @@ import requests,urllib,json
 #Galank.log("Timeline Token : " + str(Galank.tl.channelAccessToken))
 
 #Khusus Login Token
-Galank = LINE('TOKENMU SAYANG')
+Galank = LINE('Etde1u1DuPTD2LEtqMNe.wvhydD8HlswGsvWpinOaVG.NgJtKifF5odgRag/5i+NuUj/oOs4PRHCfg4JUkPo/C8=')
 Galank.log("Auth Token : " + str(Galank.authToken))
 Galank.log("Timeline Token : " + str(Galank.tl.channelAccessToken))
 
-Galank1 = LINE('TOKENMU SAYANG')
+Galank1 = LINE('EtLmNWo7KNUdHQTkSs5a.3svWLda5Jb1maVIdRVif6G.ML3JdscVmcKTR0Wj5bjB/j8yKXL9WGk3UVGBsD0XDTg=')
 Galank1.log("Auth Token : " + str(Galank1.authToken))
 Galank1.log("Timeline Token : " + str(Galank1.tl.channelAccessToken))
 
-Galank2 = LINE('TOKENMU SAYANG')
+Galank2 = LINE('EtHBJE9yfXZQc0QSWeb3.eYIoClpI2sl2hRSJw7q6SW.alkhuKlXgVeJygqskc0aUH9YNYZ7zfgTV1hdpw7asHo=')
 Galank2.log("Auth Token : " + str(Galank2.authToken))
 Galank2.log("Timeline Token : " + str(Galank2.tl.channelAccessToken))
 
-Galank3 = LINE('TOKENMU SAYANG')
+Galank3 = LINE('EtOJ0VznD2VHgYhlCnS8.LetmZ3b3S8xsvXte6ExxAa.fb/cbmv5lUxPAd7Dc+lCPlQ8oR1FJ5cSsaxB1am+f5w=')
 Galank3.log("Auth Token : " + str(Galank3.authToken))
 Galank3.log("Timeline Token : " + str(Galank3.tl.channelAccessToken))
 
@@ -103,8 +103,8 @@ Bmid = Galank2.getProfile().mid
 Cmid = Galank3.getProfile().mid
 
 Bots=[mid,Amid,Bmid,Cmid]
-admin=["ueca4120a9d7b0e4a9e7f4f1b1b96a436"] 
-owner=["ueca4120a9d7b0e4a9e7f4f1b1b96a436"]
+admin=["u78643d09e42a36836a17cc918963a8b7"] 
+owner=["u78643d09e42a36836a17cc918963a8b7"]
 wait = {
     'contact':False,
     'autoJoin':True,
